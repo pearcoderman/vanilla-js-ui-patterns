@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui;
+  padding: 2rem;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.5);
+  display: none;
+}
+
+.overlay.open {
+  display: grid;
+  place-items: center;
+}
+
+.modal {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+}

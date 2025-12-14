@@ -1,0 +1,19 @@
+body { font-family: system-ui; padding: 2rem; }
+
+.tab {
+  padding: .5rem 1rem;
+}
+
+.tab.active {
+  background: #111;
+  color: white;
+}
+
+.panel {
+  display: none;
+  margin-top: 1rem;
+}
+
+.panel.active {
+  display: block;
+}
