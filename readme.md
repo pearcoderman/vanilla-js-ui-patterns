@@ -10,7 +10,13 @@ I use these to power most of my mini apps: https://www.yuzool.com
 
 ---
 
+## Video Demos
+
+![CleanShot 2025-12-14 at 20 04 51](https://github.com/user-attachments/assets/9c26486c-1948-47c7-9611-7c2bb0f13df3)
+
 ![CleanShot 2025-12-14 at 18 29 21](https://github.com/user-attachments/assets/f04e49a9-4906-4db8-a6f5-52b1e1b2c469)
+
+(code demos included in each folder)
 
 ---
 
