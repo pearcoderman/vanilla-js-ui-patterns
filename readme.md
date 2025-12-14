@@ -6,7 +6,11 @@ No build step. No dependencies. No magic.
 
 Just clean, readable UI primitives you can drop into any project. 
 
-I use these to power most of mini apps: https://www.yuzool.com
+I use these to power most of my mini apps: https://www.yuzool.com
+
+---
+
+![CleanShot 2025-12-14 at 18 29 21](https://github.com/user-attachments/assets/f04e49a9-4906-4db8-a6f5-52b1e1b2c469)
 
 ---
 
