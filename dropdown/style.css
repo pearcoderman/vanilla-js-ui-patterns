@@ -1,0 +1,9 @@
+.menu {
+  display: none;
+  border: 1px solid #ccc;
+  margin-top: 4px;
+}
+
+.menu.open {
+  display: block;
+}
